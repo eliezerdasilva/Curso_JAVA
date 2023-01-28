@@ -12,7 +12,7 @@ import entities_contrato.Department;
 import entities_contrato.HourContract;
 import entities_contrato.Worker;
 
-public class Program {
+public final class Program {
 
 	public static void main(String[] args) throws ParseException {
 		// TODO Auto-generated method stub
