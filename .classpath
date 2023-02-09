@@ -3,6 +3,8 @@
 	<classpathentry kind="src" path="exercicio_conta"/>
 	<classpathentry kind="src" path="exercicio_funcionario"/>
 	<classpathentry kind="src" path="met_abstratos"/>
+	<classpathentry kind="src" path="estrutura_try_catch"/>
+	<classpathentry kind="src" path="excecoes"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
